@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# game-of-thrones-api.2.0
+
+My work create on React using API Game of thrones persons
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
